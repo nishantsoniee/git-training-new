@@ -8,6 +8,7 @@ class TrustHosts extends Middleware
 {
     /**
      * Get the host patterns that should be trusted.
+     * Changes in the TrustHosts middleware
      *
      * @return array
      */
