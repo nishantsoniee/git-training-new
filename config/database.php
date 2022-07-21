@@ -15,6 +15,8 @@ return [
     |
     */
 
+    // Changes in the DATABASE config file
+
     'default' => env('DB_CONNECTION', 'mysql'),
 
     /*
